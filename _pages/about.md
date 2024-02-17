@@ -15,7 +15,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi Folks! I am a Ph.D. student at the intersection of multimodal AI, human-computer interaction, and fairness in the [Artificial Intelligence](https://eecs.oregonstate.edu/ai-degree-program) and [Computer Science](https://eecs.oregonstate.edu/academics/graduate/cs) programs at Oregon State University, where I'm advised by [Stefan Lee](https://web.engr.oregonstate.edu/~leestef/) (and [Minsuk Kahng](https://minsuk.com/) before his relocation to Google).
+Hi Folks! I am currently a third-year master student at Heilongjiang University, where I'm advised by [Prof. Jiquan Ma]([https://web.engr.oregonstate.edu/~leestef/](https://jsjrj.hlju.edu.cn/info/1969/1526.htm)) (and collaborated with [Prof. Dinggang Shen]([https://minsuk.com/](https://scholar.google.com/citations?user=v6VYQC8AAAAJ&hl=zh-CN)),
+[Prof. Jing Ke]([[https://minsuk.com/](https://scholar.google.com/citations?user=v6VYQC8AAAAJ&hl=zh-CN](https://scholar.google.com/citations?hl=zh-CN&user=zX41yC8AAAAJ))).
 
 My research evaluates large-scale vision-language models like CLIP, ViLBERT, LLaVA, and DALL-E. I enjoy auditing the real-world steps to get these models in production and determining mitigations to help promote fair outcomes. Frequently, this leads to human-centered methods that consider the entire lifecycle of a model: from data collection to deployment.
 
