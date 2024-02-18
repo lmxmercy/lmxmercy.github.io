@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: AI/CS Ph.D Student, Oregon State University
+subtitle: CS Master Student, Heilongjiang University
 
 profile:
   align: right
@@ -15,8 +15,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi Folks! I am currently a third-year master student at Heilongjiang University, where I'm advised by [Prof. Jiquan Ma]([https://web.engr.oregonstate.edu/~leestef/](https://jsjrj.hlju.edu.cn/info/1969/1526.htm)) (and collaborated with [Prof. Dinggang Shen]([https://minsuk.com/](https://scholar.google.com/citations?user=v6VYQC8AAAAJ&hl=zh-CN)),
-[Prof. Jing Ke]([[https://minsuk.com/](https://scholar.google.com/citations?user=v6VYQC8AAAAJ&hl=zh-CN](https://scholar.google.com/citations?hl=zh-CN&user=zX41yC8AAAAJ))).
+Hi Folks! Currently, I am a third-year master student in Computer Science at Heilongjiang University, where I'm advised by [Prof. Jiquan Ma]([https://web.engr.oregonstate.edu/~leestef/](https://jsjrj.hlju.edu.cn/info/1969/1526.htm)) (and collaborated with [Prof. Dinggang Shen]([https://minsuk.com/](https://scholar.google.com/citations?user=v6VYQC8AAAAJ&hl=zh-CN)),
+[Prof. Jing Ke]([[https://minsuk.com/](https://scholar.google.com/citations?user=v6VYQC8AAAAJ&hl=zh-CN](https://scholar.google.com/citations?hl=zh-CN&user=zX41yC8AAAAJ)), 
+[Prof. Chunquan Li]([https://jsjxy.usc.edu.cn/info/2022/10218.htm)),
+[Dr. Hui Cui]([[https://jsjxy.usc.edu.cn/info/2022/10218.htm](https://scholar.google.com/citations?user=IPHzmmQAAAAJ&hl=zh-CN&oi=ao)))).
 
 My research evaluates large-scale vision-language models like CLIP, ViLBERT, LLaVA, and DALL-E. I enjoy auditing the real-world steps to get these models in production and determining mitigations to help promote fair outcomes. Frequently, this leads to human-centered methods that consider the entire lifecycle of a model: from data collection to deployment.
 
