@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi Folks! Currently, I am a third-year master student at Heilongjiang University, where I'm advised by [Prof. Jiquan Ma](https://jsjrj.hlju.edu.cn/info/1969/1526.htm) (and collaborated with [Prof. Dinggang Shen](https://scholar.google.com/citations?user=v6VYQC8AAAAJ&hl=zh-CN), [Prof. Jing Ke](https://scholar.google.com/citations?hl=zh-CN&user=zX41yC8AAAAJ), [Prof. Chunquan Li] (https://jsjxy.usc.edu.cn/info/2022/10218.htm), [Dr. Hui Cui]([https://jsjrj.hlju.edu.cn/info/1969/1526.htm](https://scholar.google.com/citations?hl=zh-CN&user=IPHzmmQAAAAJ&view_op=list_works&sortby=pubdate))).
+Hi Folks! Currently, I am a third-year master student at Heilongjiang University, where I'm advised by [Prof. Jiquan Ma](https://jsjrj.hlju.edu.cn/info/1969/1526.htm) (and collaborated with [Prof. Dinggang Shen](https://scholar.google.com/citations?user=v6VYQC8AAAAJ&hl=zh-CN), [Prof. Jing Ke](https://scholar.google.com/citations?hl=zh-CN&user=zX41yC8AAAAJ), [Prof. Chunquan Li](https://jsjxy.usc.edu.cn/info/2022/10218.htm), [Dr. Hui Cui]([https://jsjrj.hlju.edu.cn/info/1969/1526.htm](https://scholar.google.com/citations?hl=zh-CN&user=IPHzmmQAAAAJ&view_op=list_works&sortby=pubdate))).
 
 I specialize in *Medical Image Analysis* (especially **Whole Slide Image (WSI) Analysis**), **Computational Pathology**, **Multimodal Deep Learning**, and **Geometric Deep Learning**. My objective is to design and develop trustworthy and effective AI solutions in clinical cancer diagnosis and prognosis. 
 
