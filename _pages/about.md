@@ -23,5 +23,6 @@ Hi Folks! Currently, I am a third-year master student at Heilongjiang University
 [Dr. Hui Cui](https://scholar.google.com/citations?user=IPHzmmQAAAAJ&hl=zh-CN&oi=ao)
 ).
 
-I specialize in Medical Image Analysis (especially Whole Slide Image (WSI) Analysis), Computational Pathology, Multimodal Learning, Computer Vision, and Deep Learning. My objective is to design and develop trustworthy and effective AI solutions in clinical cancer diagnosis and prognosis. During my master studies, I have developed
-multiple methods for computational pathology from various angles such as patch / slide‑level histopathology image classification, survival outcome prediction, and multimodal learning. At present, I primarily focus on the following research topics: Data‑Efficient, Weakly/Self‑Supervised Learning, Multimodal Learning, Interpretability, and Visual Foundation Models, etc. in medical image analysis, particularly those in computational pathology.
+I specialize in Medical Image Analysis (especially Whole Slide Image (WSI) Analysis), Computational Pathology, Multimodal Learning, Computer Vision, and Deep Learning. My objective is to design and develop trustworthy and effective AI solutions in clinical cancer diagnosis and prognosis. 
+
+During my master studies, I have developed multiple methods for computational pathology from various angles such as patch / slide‑level histopathology image classification, survival outcome prediction, and multimodal learning. At present, I primarily focus on the following research topics: Data‑Efficient, Weakly/Self‑Supervised Learning, Multimodal Learning, Interpretability, and Visual Foundation Models, etc. in medical image analysis, particularly those in computational pathology.
