@@ -17,8 +17,7 @@
       description:
         - Advisor: Prof. Jiquan Ma.
         - GPA: 3.91/4.00, Overall Average Score: 88.53.
-        - Courses: Deep Learning (4.0/4.0), Computer Vision (4.0/4.0), Artificial Intelligence (4.0/4.0), Design and Analysis of Algorithms (4.0/4.0),
-Combinatorial Mathematics (4.0/4.0)
+        - Courses: Deep Learning (4.0/4.0), Computer Vision (4.0/4.0), Artificial Intelligence (4.0/4.0), Combinatorial Mathematics (4.0/4.0).
     - title: Bachelor's Degree in Computer Science and Technology
       institution: Heilongjiang International University, Harbin, China
       year: 2021
