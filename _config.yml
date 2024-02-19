@@ -148,7 +148,7 @@ giscus:
   lang: en
 
 # Disqus comments (DEPRECATED)
-disqus_shortname: ericslyman # put your disqus shortname
+disqus_shortname: mingxinliu # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
@@ -269,8 +269,8 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 
 scholar:
 
-  last_name: Slyman
-  first_name: [Eric]
+  last_name: Mingxin
+  first_name: Liu
 
   style: apa
   locale: en
