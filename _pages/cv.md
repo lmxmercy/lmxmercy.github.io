@@ -5,7 +5,7 @@ title: cv
 nav: true
 nav_order: 3
 cv_pdf: MingxinCV.pdf
-description: My personal CV for download.
+description: My CV.
 toc:
   sidebar: left
 ---
